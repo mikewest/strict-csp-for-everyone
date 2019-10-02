@@ -4,7 +4,7 @@
 
 XSS is bad. _[Insert statistics here]_. New and exciting APIs make a bad thing worse by enhancing the
 consequences of injection. We think we have a good handle on a deployable approach to CSP. _[Insert
-discussion of [strict CSP](https://csp.withgoogle.com/docs/strict-csp.html) here]. What if we gently
+discussion of [strict CSP](https://csp.withgoogle.com/docs/strict-csp.html) here]_. What if we gently
 suggested that all developers follow that pattern by requiring developers to opt-out of its
 protections?
 
